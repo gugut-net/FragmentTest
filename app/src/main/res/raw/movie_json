@@ -1,0 +1,91 @@
+[{
+  "title": "Dawn of the Planet of the Apes",
+  "image": "https://m.media-amazon.com/images/M/MV5BMTgwODk3NDc1N15BMl5BanBnXkFtZTgwNTc1NjQwMjE@._V1_SX300.jpg",
+  "rating": 8.3,
+  "releaseYear": 2014,
+  "genre": ["Action", "Drama", "Sci-Fi"]
+},
+  {
+    "title": "District 9",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmQ5MzFjYWMtMTMwNC00ZGU5LWI3YTQtYzhkMGExNGFlY2Q0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+    "rating": 8,
+    "releaseYear": 2009,
+    "genre": ["Action", "Sci-Fi", "Thriller"]
+  },
+  {
+    "title": "Transformers: Age of Extinction",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjEwNTg1MTA5Nl5BMl5BanBnXkFtZTgwOTg2OTM4MTE@._V1_SX300.jpg",
+    "rating": 6.3,
+    "releaseYear": 2014,
+    "genre": ["Action", "Adventure", "Sci-Fi"]
+  },
+  {
+    "title": "X-Men: Days of Future Past",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGIzNWYzN2YtMjcwYS00YjQ3LWI2NjMtOTNiYTUyYjE2MGNkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "rating": 8.4,
+    "releaseYear": 2014,
+    "genre": ["Action", "Sci-Fi", "Thriller"]
+  },
+  {
+    "title": "The Machinist",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjk1NzBlY2YtNjJmNi00YTVmLWI2OTgtNDUxNDE5NjUzZmE0XkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_SX300.jpg",
+    "rating": 7.8,
+    "releaseYear": 2004,
+    "genre": ["Drama", "Thriller"]
+  },
+  {
+    "title": "The Last Samurai",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzkyNzQ1Mzc0NV5BMl5BanBnXkFtZTcwODg3MzUzMw@@._V1_SX300.jpg",
+    "rating": 7.7,
+    "releaseYear": 2003,
+    "genre": ["Action", "Drama", "History"]
+  },
+  {
+    "title": "The Amazing Spider-Man 2",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTA5NDYxNTg0OV5BMl5BanBnXkFtZTgwODE5NzU1MTE@._V1_SX300.jpg",
+    "rating": 7.3,
+    "releaseYear": 2014,
+    "genre": ["Action", "Adventure", "Fantasy"]
+  },
+  {
+    "title": "Tangled",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTAxNDYxMjg0MjNeQTJeQWpwZ15BbWU3MDcyNTk2OTM@._V1_SX300.jpg",
+    "rating": 7.9,
+    "releaseYear": 2010,
+    "genre": ["Action", "Drama", "Sci-Fi"]
+  },
+  {
+    "title": "Rush",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWEwODJmZDItYTNmZC00OGM4LThlNDktOTQzZjIzMGQxODA4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "rating": 8.3,
+    "releaseYear": 2013,
+    "genre": ["Animation", "Comedy", "Family"]
+  },
+  {
+    "title": "Despicable Me 2",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQxNzY1MjI5NF5BMl5BanBnXkFtZTcwNTI0MDY1OQ@@._V1_SX300.jpg",
+    "rating": 7.6,
+    "releaseYear": 2013,
+    "genre": ["Animation", "Comedy", "Family"]
+  },
+  {
+    "title": "Kill Bill: Vol. 1",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "rating": 8.2,
+    "releaseYear": 2003,
+    "genre": ["Action", "Crime"]
+  },
+  {
+    "title": "A Bug's Life",
+    "image": "https://m.media-amazon.com/images/M/MV5BNThmZGY4NzgtMTM4OC00NzNkLWEwNmEtMjdhMGY5YTc1NDE4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "rating": 7.2,
+    "releaseYear": 1998,
+    "genre": ["Animation", "Adventure", "Comedy"]
+  },
+  {
+    "title": "How to Train Your Dragon",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_SX300.jpg",
+    "rating": 8.2,
+    "releaseYear": 2010,
+    "genre": ["Animation", "Adventure", "Family"]
+  }]
